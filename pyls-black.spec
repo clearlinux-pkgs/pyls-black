@@ -4,7 +4,7 @@
 #
 Name     : pyls-black
 Version  : 0.4.6
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/53/a4/4d37356409ee814bbde5fedd36e65102d2c687a1d1aee99119b7532cfd8d/pyls-black-0.4.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/53/a4/4d37356409ee814bbde5fedd36e65102d2c687a1d1aee99119b7532cfd8d/pyls-black-0.4.6.tar.gz
 Summary  : Black plugin for the Python Language Server
