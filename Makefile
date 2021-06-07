@@ -1,5 +1,5 @@
 PKG_NAME := pyls-black
-URL = https://files.pythonhosted.org/packages/53/a4/4d37356409ee814bbde5fedd36e65102d2c687a1d1aee99119b7532cfd8d/pyls-black-0.4.6.tar.gz
+URL = https://files.pythonhosted.org/packages/5b/be/3295df9635f7059e1229a3d6770284306dd295ea653fba5ce5b278af3d79/pyls-black-0.4.7.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
